@@ -1,0 +1,6 @@
+<resources >
+    <style name="Base.Theme.com.example.channels.list.Channels" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.com.example.channels.list.Channels" parent="Base.Theme.com.example.channels.list.Channels" />
+</resources>

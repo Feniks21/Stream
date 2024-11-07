@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Channels</string>
+
+    <string name="searchView_tv_channels_hint">Напишите название телеканала</string>
+
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="radio">Радио</string>
+    <string name="TV">ТВ</string>
+    <string name="Music">Музыка</string>
+    <string name="login">Войти</string>
+    <string name="auto">AUTO</string>
+</resources>
